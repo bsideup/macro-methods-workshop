@@ -1,0 +1,15 @@
+plugins {
+    id "groovy"
+}
+
+repositories {
+    jcenter()
+
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile 'com.github.apache.groovy:groovy-all:68acdae206'
+
+    testCompile 'junit:junit:4.12'
+}
