@@ -1,6 +1,8 @@
 # Groovy macro methods workshop
 
-http://greachconf.com/sessions/your-very-first-macro-method/
+https://speakerdeck.com/bsideup/your-very-first-macro-method-in-apache-groovy
+
+http://2017.greachconf.com/sessions/your-very-first-macro-method/
 
 
 ## Links
